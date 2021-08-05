@@ -1,0 +1,6 @@
+id_ed25519
+
+ ssh-add ~/.ssh/id_ed25519
+Identity added: /c/Users/PC/.ssh/id_ed25519 (lewi.mikael@outlook.com)
+
+keyword: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFEORmazwca/yaw2hmci5G0SeiNo0Bc5epok+ajwcerv lewi.mikael@outlook.com
